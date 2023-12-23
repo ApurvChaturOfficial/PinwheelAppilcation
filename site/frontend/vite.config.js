@@ -9,10 +9,10 @@ export default defineConfig({
     react(),
     VitePWA({
       manifest:  {
-        "name": "Tadpole Organisation",
+        "name": "Pinwheel Organisation",
         "icons": [
           {
-            src: "Business/Tadpole/favicon_io/android-chrome-512x512.png",
+            src: "Business/Pinwheel/favicon_io/android-chrome-512x512.png",
             sizes: "512x512",
             type: "image/png",
             purpose: "any maskable"
